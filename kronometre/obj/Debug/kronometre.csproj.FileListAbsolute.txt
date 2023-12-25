@@ -1,0 +1,9 @@
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\bin\Debug\kronometre.exe.config
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\obj\Debug\kronometre.csprojResolveAssemblyReference.cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\obj\Debug\kronometre.Form1.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\obj\Debug\kronometre.csproj.GenerateResource.Cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\bin\Debug\kronometre.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\bin\Debug\kronometre.pdb
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\obj\Debug\kronometre.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\kronometre\kronometre\obj\Debug\kronometre.pdb
